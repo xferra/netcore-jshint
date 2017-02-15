@@ -51,3 +51,13 @@ If you have any issues or questions - feel free to [create an issue](https://git
 4. Add integration for test repository: repo_url/settings/installations
 5. Enable protected branches and status checks from your integration: repo_url/settings/branches
 6. Create PR in test repository, that's it! [Examples](https://github.com/xferra/xferra-Test-PR/pulls).
+
+## Links
+1. .NET Core: https://www.microsoft.com/net/core
+2. ASP.NET Core: https://docs.asp.net/en/latest/intro.html
+3. Docker: https://www.docker.com/
+4. Google Cloud: https://cloud.google.com/
+5. Kubernetes: http://kubernetes.io/
+6. .NET on Google Cloud Platform: https://cloud.google.com/dotnet/docs/
+7. GitHub Integrations: https://github.com/integrations
+8. GitHub Developer: https://developer.github.com
