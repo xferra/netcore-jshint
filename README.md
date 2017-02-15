@@ -14,7 +14,7 @@ If you have any issues or questions - feel free to [create an issue](https://git
 
 ## Before you start
 - Set path to git 'GitPath' in [tasks.json](https://github.com/xferra/netcore-jshint/blob/master/.vscode/launch.json#L30) and/or in Env variables
-- [Generate Personal Access Token](https://github.com/settings/tokens) in GitHub. Set 'GitHubToken' in [tasks.json](https://github.com/xferra/netcore-jshint/blob/master/.vscode/launch.json#L32) and [dockerfile](https://github.com/xferra/netcore-jshint/blob/master/Dockerfile#L29)
+- [Generate Personal Access Token](https://github.com/settings/tokens) in GitHub (enable repo scope). Set 'GitHubToken' in [tasks.json](https://github.com/xferra/netcore-jshint/blob/master/.vscode/launch.json#L32) and [dockerfile](https://github.com/xferra/netcore-jshint/blob/master/Dockerfile#L29)
 - Feel free to update 'GitHubName' and 'GitHubUrl' (optional)
 - Windows Users: you will need to [execute cmd instead of bash](https://github.com/xferra/netcore-jshint/blob/master/src/Utils/Helper.cs#L61) - TODO
 
