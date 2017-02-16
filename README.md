@@ -1,6 +1,8 @@
 # Create status checks in GitHub
 
-This is an example how to update statuses for GitHub pull requests using ASP.NET Core and Google Cloud.
+This is an example how to update statuses for GitHub pull requests using ASP.NET Core, jshint and Google Cloud.
+
+![Example](example.jpg)
 
 If you have any issues or questions - feel free to [create an issue](https://github.com/xferra/netcore-jshint/issues).
 
